@@ -1,0 +1,27 @@
+body{
+    background-image: url(dante.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.all{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+.jogos{
+    background-color: red;
+}
+.lançamento{
+background-color: blue;
+}
+.vendidas{
+background-color: green;
+}
+.plataformas{
+    background-color: yellow;
+}
+.link{
+    text-align: center;
+    color: black;
+}
